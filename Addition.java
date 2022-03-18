@@ -6,5 +6,8 @@ public class Addition {
 		int b=20;
 		System.out.println("THe sum is"+a+b);
 		
+		
+		
+		
 	}
 }

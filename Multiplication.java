@@ -8,6 +8,6 @@ public class Multiplication {
 		int b=20;
 		
 		
-		System.out.println(("Multiplication")+(a*b));
+		System.out.println(("Multi")+(a*b));
 	}
 }
